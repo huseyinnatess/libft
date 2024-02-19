@@ -3,9 +3,13 @@ Bu proje, 42 okulunun bir parçası olarak geliştirilen ilk projedir. Amacı, C
 
 ## İçindekiler
 1- Proje Hakkında
+
 2- Kullanım
+
 3- Fonksiyonlar
+
 4- Yeniden Kullanım
+
 
 ## Proje Hakkında
 libft, C programlama dilinde kullanılan standart kütüphane fonksiyonlarını içeren bir proje kitaplığıdır. Bu fonksiyonları yeniden oluşturmak, C dilini daha iyi anlamak ve C programlama becerilerini geliştirmek için mükemmel bir fırsattır. Bu projede, libc'nin işlevlerini yeniden oluşturmanın yanı sıra, ek işlevler de oluşturabilir ve ekleyebilirsiniz.
