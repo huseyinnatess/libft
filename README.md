@@ -3,8 +3,11 @@ Bu proje, 42 okulunun bir parçası olarak geliştirilen ilk projedir. Amacı, C
 
 ## İçindekiler
 1- Proje Hakkında
+
 2- Kullanım
+
 3- Fonksiyonlar
+
 4- Yeniden Kullanım
 
 ## Proje Hakkında
